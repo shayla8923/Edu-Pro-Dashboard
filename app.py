@@ -26,7 +26,7 @@ Learner Demographics & Course Enrollment Analysis
 
 st.divider()
 
-df = pd.read_csv("C:/Edu Pro project/Merged_EduPro_Dataset.csv")
+df = pd.read_csv("Merged_EduPro_Dataset.csv")
 
 st.sidebar.header("Filters")
 
